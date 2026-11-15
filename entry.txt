@@ -1,0 +1,1 @@
+Capability-matrix free-model aggregator: top-rated eligible model per prompt, rating-ordered failover chain
